@@ -61,3 +61,4 @@ def onClick():
 cal_percent = ttk.Button(label_frame, text="Calculate GST", command=onClick)
 cal_percent.grid(row=3, columnspan=3, padx=0, pady=10)
 win.mainloop()
+#Test for class project..
